@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "Voir les notes de version",
+  "pub_date": "2026-05-13T13:22:23Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2ZYR3h5aGhLODZMT0NMNEVqVnd5MGlvMGswbDFoUXVKaVgwRVZvcVNrdHltY0ZBS2I4NUhsTmZxRXZLV1F0WkYzNTZaUUVmajlqbTU3R09HdkxlSWZ2SnZwVDIvMndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4Njc4NTMzCWZpbGU6U2lkZWNvdXJ0LmFwcC50YXIuZ3oKMHIyZDFtSUJuMWhnRnl1MnRtcFZsL1pkRDZLTFM2UUdEbjRXbGVXbUt6YlkwakZZY05OQWRDaHQ1cE44ZVVpb2lhMFoxSEV0RlNxUVdEWFJ6RXhlQkE9PQo=",
+      "url": "https://github.com/Rokania/sidecourt-releases/releases/download/v0.2.0/Sidecourt.app.tar.gz"
+    }
+  }
+}
