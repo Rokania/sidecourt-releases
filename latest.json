@@ -1,15 +1,15 @@
 {
-  "version": "0.8.2",
-  "notes": "Voir les notes de version",
-  "pub_date": "2026-05-17T17:01:02Z",
-  "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2ZYR3h5aGhLOHlDUmZlT242QXlGcFhvU3U5Ukh5aFVBNHB4L1BFK0tIRG1ZRitZNXgxL245MG9nNmpDMjlPTlRGTUhFOStnalA4VmxST1Y4cFBSaVBzQ3JmKzBibFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDM2NjUwCWZpbGU6U2lkZWNvdXJ0LmFwcC50YXIuZ3oKMGcrQnNGMEl0Mk53VWc2QkJHSnJXRSthZEpQNzhNWHNkZnNSc1ZNZFZTWFBMTDlGcE13OTFNZ0toTDdMVW9OTFpCbEZpck03WGpQclRJdXBqRTFOQVE9PQo=",
-      "url": "https://github.com/Rokania/sidecourt-releases/releases/download/v0.8.2/Sidecourt.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2ZYR3h5aGhLODFzUUJ3K2FLNUNCTDdCYjdNcDJLRnlDZDlkTUxSc1ZycHhmOUZjallIVysxM0U5RXpSNmJlL0tORjRuSmxmK0I0aVJFQVJvejdpYjlOKzdoSDEwcEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDM3MjMwCWZpbGU6U2lkZWNvdXJ0XzAuOC4yX3g2NC1zZXR1cC5leGUKeTlZalQ5cWY0RDBSMTVaanVVei9ORHU4TXl3Sm9HVlRFTmpVUUJLaG1laEJzVXhIVzZoWUphL01KYmhFQ0RYVEs0cW1RVGQ0c2VjWHVUK0s3SmRPQnc9PQo=",
-      "url": "https://github.com/Rokania/sidecourt-releases/releases/download/v0.8.2/Sidecourt_0.8.2_x64-setup.exe"
-    }
-  }
+    "version":  "0.8.3",
+    "notes":  "Voir les notes de version",
+    "pub_date":  "2026-06-25T21:32:24Z",
+    "platforms":  {
+                      "darwin-aarch64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2ZYR3h5aGhLOHlDUmZlT242QXlGcFhvU3U5Ukh5aFVBNHB4L1BFK0tIRG1ZRitZNXgxL245MG9nNmpDMjlPTlRGTUhFOStnalA4VmxST1Y4cFBSaVBzQ3JmKzBibFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDM2NjUwCWZpbGU6U2lkZWNvdXJ0LmFwcC50YXIuZ3oKMGcrQnNGMEl0Mk53VWc2QkJHSnJXRSthZEpQNzhNWHNkZnNSc1ZNZFZTWFBMTDlGcE13OTFNZ0toTDdMVW9OTFpCbEZpck03WGpQclRJdXBqRTFOQVE9PQo=",
+                                             "url":  "https://github.com/Rokania/sidecourt-releases/releases/download/v0.8.2/Sidecourt.app.tar.gz"
+                                         },
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2ZYR3h5aGhLODdCRjhwcmVIK01nY1lhdXRCWDNxSWE1eE5maWhoMmtRRnZPdCtLVWNWK3YrdFdmK3BhNnU3SjJFMkN2Uk01RjUrS2lNMUZraFZNWWlZVVErT0R6RkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDIzMDA2CWZpbGU6U2lkZWNvdXJ0XzAuOC4zX3g2NC1zZXR1cC5leGUKWDYxK0dsaElkZXVkTkVGSFhpSG1aM01NWFVkaXhVUUhsd3d6aDFEZzBFMVRVa3p4NlduNnBuMkd2SGljWXI5c3I3L202YTRXc3VSMnRvYXN3UjB3QUE9PQo=",
+                                             "url":  "https://github.com/Rokania/sidecourt-releases/releases/download/v0.8.3/Sidecourt_0.8.3_x64-setup.exe"
+                                         }
+                  }
 }
