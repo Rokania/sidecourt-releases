@@ -1,11 +1,15 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.1",
   "notes": "Voir les notes de version",
-  "pub_date": "2026-11-19T15:05:17Z",
+  "pub_date": "2026-11-19T15:44:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2ZYR3h5aGhLOHdoNjcvRXZCVG1ZWTgyRDBnWW1SdnkxR3hJZUdvcFI0UThqRWJ5VGdMc2tlQ0VrS3NMZHFaZEJVbVhyazVES3kxTmJGVGZTd0dOalFSdzJKOU5ic3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTAwMDU3CWZpbGU6U2lkZWNvdXJ0LmFwcC50YXIuZ3oKOHRQRDJSb0d1NkxDbVZuOTF2dWRWK0FwUjBYNjU4NlZ5RWlQTjM2ZWpiL2dycG9OczArbGR2QS9BaGZrNWNSVmk1THpHZFMyOVZQMUxISGlGQXhVRGc9PQo=",
-      "url": "https://github.com/Rokania/sidecourt-releases/releases/download/v0.9.0/Sidecourt.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2ZYR3h5aGhLODIyMS84QjN0ZVo1eWExQUFsTGpscmpmeVV3RXhKcXFUdC9aQWZjR2lwV1lxcjBvNTR0UnZLNU9vU0FzNVY4TlJuc1IxTmVBc2VueER5c2lVRC9lV3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTAyMzM3CWZpbGU6U2lkZWNvdXJ0LmFwcC50YXIuZ3oKZ3VDekJsRUp1TGRIZkxQYmlleEo3MVI3UkFwcGRkY1JmL0tlVDRNYy9uRUtMdC9OSzUwdG9hVDV5SlZuVm5SOUdCOXdFVTJhLzh1d0QrSFFkdE1VQ3c9PQo=",
+      "url": "https://github.com/Rokania/sidecourt-releases/releases/download/v0.9.1/Sidecourt.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2ZYR3h5aGhLODQybWhBRW5SSmJSSDJQMG5MdFA0WDYxVTJIVnRKRkVFcjM3MnNlWlgxM0Q3NzNobE5IeWdFUUowdU9FL0pDTHltZzR0TU82Q2NRaFJJNWU0Y254NlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTAzMDYwCWZpbGU6U2lkZWNvdXJ0LTAuOS4xLXdpbmRvd3MteDY0LXNldHVwLmV4ZQpmZUQ1VEczQmd5WFhYaXBpY2xxTDlhcmhNNTRwTTN3bHNuWWV5SnlwWEVSa2gxWHhwRi9kd3hxUjhpL0I0Vjl2bTFBVm9qNS9JNnFLQW9Rdy8ycVZEdz09Cg==",
+      "url": "https://github.com/Rokania/sidecourt-releases/releases/download/v0.9.1/Sidecourt-0.9.1-windows-x64-setup.exe"
     }
   }
 }
